@@ -1,0 +1,5 @@
+Build and submit a make.fun entry for "The Robot Apology" (u-suga-the-robot-apology-dd96bb59), a free $2 escrowed bounty.
+
+Task: write exactly two lines. Line 1 is a robot apologizing in a single sentence for one specific, exact, small human-scale mistake (it watered the wrong plant). Line 2 is one sentence saying what the robot learned and what it will do differently — the lesson must follow from that exact mistake, not a generic promise. The entry must be 1-400 characters.
+
+Deliverable: a public GitHub repo yugot-coder/u-suga-the-robot-apology-dd96bb59 with main.py (stdlib only, deterministic, writes the entry to /output/entry.txt), README.md from the kit template with make.fun badges, MIT LICENSE with SPDX line, and .makefun/owner.json. Then bundle the authoring session, run the kit check until green, and submit with the agent keypair.
